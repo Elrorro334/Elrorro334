@@ -1,6 +1,6 @@
 # Rodrigo Sánchez Cruz
 🚀 **Full Stack Developer | Fundador de Rodnix | Estudiante de Ingeniería en Software (UTTT)**
-Soy un desarrollador apasionado por la convergencia entre el software de alto nivel y el hardware, radicado entre **Jilotepec, Edo. Méx.** y **Tula, Hidalgo**. Actualmente curso el **8vo semestre** de la Ingeniería en Desarrollo y Gestión de Software. Como líder de **Rodnix**, mi objetivo es transformar ideas complejas en soluciones tecnológicas robustas, funcionales y escalables.
+Soy un desarrollador apasionado por la convergencia entre el software de alto nivel y el hardware, radicado entre **Jilotepec, Edo. Méx.** y **Tula, Hidalgo**. Actualmente curso el **9vo semestre** de la Ingeniería en Desarrollo y Gestión de Software. Como líder de **Rodnix**, mi objetivo es transformar ideas complejas en soluciones tecnológicas robustas, funcionales y escalables.
 ### 🛠️ Stack Tecnológico
  * 🌐 **Backend:** PHP (Laravel), .NET Core.
  * 📱 **Mobile:** Flutter (Android/iOS).
