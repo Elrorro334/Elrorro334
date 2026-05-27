@@ -19,3 +19,11 @@ Soy un desarrollador apasionado por la convergencia entre el software de alto ni
  * 🎧 **Música:** Entusiasta de la escena EDM (Hard Techno, Trap, Bass) y el Regional Mexicano.
  * ✈️ **Simulación:** Aficionado a la simulación de vuelo con enfoque en planificación de rutas y navegación realista.
 📬 **Contacto Profesional:** Sitio Web de Rodnix | LinkedIn | Email
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elrorro334/Elrorro334/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elrorro334/Elrorro334/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Elrorro334/Elrorro334/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
