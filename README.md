@@ -21,9 +21,11 @@ Soy un desarrollador apasionado por la convergencia entre el software de alto ni
 📬 **Contacto Profesional:** Sitio Web de Rodnix | LinkedIn | Email
 
 <div align="center">
+  <h2>🎮 Actividad de Contribución</h2>
+  <p><em>Mi constelación de código - El Pacman devorando commits día a día 👾</em></p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elrorro334/Elrorro334/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elrorro334/Elrorro334/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Elrorro334/Elrorro334/output/pacman-contribution-graph.svg">
+    <img alt="Gráfico de contribuciones" src="https://raw.githubusercontent.com/Elrorro334/Elrorro334/output/pacman-contribution-graph.svg">
   </picture>
 </div>
