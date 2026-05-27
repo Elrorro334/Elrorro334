@@ -27,5 +27,5 @@ Soy un desarrollador apasionado por la convergencia entre el software de alto ni
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elrorro334/Elrorro334/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elrorro334/Elrorro334/output/pacman-contribution-graph.svg">
     <img alt="Gráfico de contribuciones" src="https://raw.githubusercontent.com/Elrorro334/Elrorro334/output/pacman-contribution-graph.svg">
-  </picture>
+</picture>
 </div>
