@@ -21,7 +21,7 @@
 *   📍 **Ubicación:** Originario de Jilotepec, Edo. Mex., con base en Tula, Hidalgo.
 *   🏢 **Fundador y Lead Developer** en **Rodnix**, agencia de soluciones digitales a la medida.
 *   🎯 **Meta a corto plazo (2027):** Integrarme al sector aeronáutico mediante prácticas profesionales en **Aeroméxico**.
-*   🤝 **Trabajo en equipo:** Colaborador activo en el "Team 4" universitario (junto a Dorian, Alan, Bridged y Ximena) y participante en hackathones con enfoque DevOps en la CDMX.
+*   🤝 **Trabajo en equipo e Innovación:** Participante en importantes competencias de desarrollo, destacando el **Hackathon de Tiendas 3B** en la CDMX y en **Talent Land** colaborando con **Grupo Salinas**.
 *   🧠 **Certificaciones:** Certificado de Iniciación al Desarrollo con IA - by Mouredev.
 
 ---
@@ -31,15 +31,18 @@
 Mi dominio técnico abarca múltiples áreas, desde arquitecturas orientadas a APIs hasta sistemas de streaming de eventos y hardware:
 
 <p align="left">
-  <strong>Backend & Frontend:</strong><br/>
+  <strong>Frontend, Backend & Móvil:</strong><br/>
   <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Core" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
   <br/><br/>
   <strong>Bases de Datos & Streaming:</strong><br/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka" />
   <br/><br/>
   <strong>Infraestructura & Cloud:</strong><br/>
@@ -48,6 +51,10 @@ Mi dominio técnico abarca múltiples áreas, desde arquitecturas orientadas a A
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" />
+  <br/><br/>
+  <strong>Actualmente aprendiendo:</strong><br/>
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Inteligencia_Artificial-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="IA" />
 </p>
 
 ---
@@ -58,7 +65,7 @@ Mi dominio técnico abarca múltiples áreas, desde arquitecturas orientadas a A
 *   📊 **EVALUMA:** Portal de evaluación corporativa construido con **.NET, Kafka y Next.js**.
 *   ☁️ **Glosy:** Plataforma SaaS de gestión, actualmente en proceso de reestructuración arquitectónica.
 
-> 💡 **Perfil Multidisciplinario:** Mi pasión va más allá del software puro. Realizo desarrollo de aplicaciones para ecosistemas **Wear OS** (como el Galaxy Watch 6), doy mantenimiento y reparación de hardware a nivel de componentes electrónicos (pantallas, teclados, transistores), trabajo con fabricación en vidrio/aluminio, y tengo experiencia en **fotografía y cinematografía aérea con drones**.
+> 💡 **Perfil Multidisciplinario:** Mi pasión va más allá del software puro. Realizo desarrollo de aplicaciones para ecosistemas **Wear OS**, doy mantenimiento y reparación de hardware a nivel de componentes electrónicos (pantallas, teclados, transistores), trabajo con fabricación en vidrio/aluminio, y tengo experiencia en **fotografía y cinematografía aérea con drones**.
 
 ---
 
