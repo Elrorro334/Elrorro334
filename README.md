@@ -22,7 +22,7 @@
 *   🏢 **Fundador y Lead Developer** en **Rodnix**, agencia de soluciones digitales a la medida.
 *   🎯 **Meta a corto plazo (2027):** Integrarme al sector aeronáutico mediante prácticas profesionales en **Aeroméxico**.
 *   🤝 **Trabajo en equipo:** Colaborador activo en el "Team 4" universitario (junto a Dorian, Alan, Bridged y Ximena) y participante en hackathones con enfoque DevOps en la CDMX.
-*   🧠 **Certificaciones:** Programa "SanaMente, LibreMente".
+*   🧠 **Certificaciones:** Certificado de Iniciación al Desarrollo con IA - by Mouredev.
 
 ---
 
