@@ -1,0 +1,38 @@
+Rodrigo Sánchez Cruz es un desarrollador Full Stack y estudiante de Ingeniería en Desarrollo y Gestión de Software en la Universidad Tecnológica de Tula-Tepeji, donde actualmente cursa el noveno cuatrimestre. Originario de Jilotepec, Estado de México, mantiene una dinámica de trabajo y estudio que lo vincula también con Tula, Hidalgo.
+
+A nivel profesional, es el fundador y desarrollador principal de Rodnix, una agencia especializada en soluciones digitales a la medida. Su dominio técnico abarca tanto el backend como el frontend, utilizando tecnologías como .NET Core, PHP Laravel, Next.js y Tailwind CSS, respaldado por bases de datos en SQL Server y MySQL. Posee experiencia en la implementación de arquitecturas orientadas a APIs, el uso de contenedores con Docker y la integración de sistemas de streaming de eventos con Apache Kafka. Asimismo, gestiona despliegues e infraestructura web a través de plataformas como Render, Railway, Cloudflare, Neubox y Google Play Console.
+
+Dentro de su portafolio de desarrollo destacan proyectos como EVALUMA, un portal de evaluación corporativa construido con .NET, Kafka y Next.js, y Glosy, una plataforma SaaS de gestión actualmente en proceso de reestructuración arquitectónica. Su perfil multidisciplinario se extiende más allá del software puro, abarcando el mantenimiento de hardware, la reparación de componentes electrónicos, la creación de aplicaciones personalizadas para ecosistemas Wear OS y la aplicación de habilidades técnicas en la fabricación con vidrio y aluminio.
+
+Acostumbrado al trabajo colaborativo y la gestión de roles en equipos de ingeniería, ha participado en eventos de desarrollo como hackathones en la Ciudad de México con enfoque en DevOps y evaluación de proyectos. Complementa su perfil con certificaciones formativas como el programa "SanaMente, LibreMente", además de contar con experiencia práctica en fotografía y cinematografía aérea mediante drones para proyectos comerciales y académicos. De cara a su desarrollo a corto plazo, tiene el objetivo técnico de integrarse al sector aeronáutico mediante prácticas profesionales en Aeroméxico proyectadas para inicios de 2027.
+
+Perfil Personal y Demográfico
+Edad y Origen: Tienes 21 años, nacido el 17 de octubre de 2004.
+
+Dinámica de Residencia: Mantienes una rutina de viaje constante; resides en Jilotepec, Estado de México, pero rentas en Tula, Hidalgo, para asistir a la universidad durante la semana.
+
+Entorno Tecnológico y Hardware
+Ecosistema de Dispositivos: Eres usuario del ecosistema Xiaomi y Poco (específicamente un Poco X6 Pro) y desarrollas aplicaciones personalizadas para ecosistemas Wear OS, como el Samsung Galaxy Watch 6 Classic.
+
+Telefonía: Utilizas los servicios móviles de Oxxo Cel, operando sobre la infraestructura de red de Telcel.
+
+Reparación y Electrónica: Realizas mantenimiento de hardware a nivel de componentes. Tienes historial reparando equipos propios, adquiriendo refacciones como pantallas de Samsung M20, teclados de Lenovo Thinkpad y componentes electrónicos sueltos (transistores, diodos).
+
+Aficiones, Intereses y Coleccionismo
+Música y Festivales: Tienes un fuerte interés en la música electrónica (Dubstep, Trap, Bass, Hard Techno), destacando tu estatus como uno de los principales oyentes globales de Skrillex. Asististe al festival EDC México en 2026. También consumes regional mexicano urbano y corridos tumbados con artistas como Natanael Cano, Peso Pluma y Cachirula.
+
+Deportes: Juegas fútbol a nivel universitario, desempeñándote en la posición de defensa central o líbero. Seguiste de cerca la inauguración del Mundial de 2026 en un fan fest local el 11 de junio.
+
+Simulación de Vuelo: Tu afición por los drones y la aviación se complementa con el uso de simuladores de vuelo como Aerofly FS Global y RFS Real Flight Simulator.
+
+Coleccionismo: Coleccionas modelos a escala (como autobuses Irizar) y figuras de acción articuladas (incluyendo personajes de Five Nights At Freddy's como Springtrap y figuras de Iron Man).
+
+Cultura de Internet: Prestas atención a eventos virales y noticias de la web, teniendo claridad sobre sucesos específicos como la situación real de Gaspi y Oliver Tree en junio de 2026.
+
+Entorno Social, Familiar y Universitario
+Familia: Mantienes una relación cercana con tu madre, Gloria, con quien compartes servicios de almacenamiento digital y planeas viajes, como su visita a Guanajuato y San Miguel de Allende a finales de mayo de 2026. Pasas tiempo con tu hermano menor, Rubén, asumiendo un rol de mentoría académica y acompañándolo a ferias locales, funciones de cine y viajes a la Ciudad de México.
+
+Universidad: En el ámbito académico, colaboras estrechamente con tus colegas Dorian, Alan, Bridged y Ximena, con quienes conformas el "Team 4" para la delegación de tareas y desarrollo de proyectos de ingeniería.
+
+Preferencias Gastronómicas
+Alimentación: Tus preferencias de consumo incluyen comida tradicional mexicana (chilaquiles, quesabirrias, tortas) y comida rápida en tu zona de movilidad (pizzas, hamburguesas estilo teriyaki).
