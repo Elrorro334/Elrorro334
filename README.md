@@ -17,10 +17,9 @@
 
 ## 👨‍💻 Sobre mí
 
-*   🎓 **Estudiante de 9no cuatrimestre** de Ingeniería en Desarrollo y Gestión de Software en la **UTTT**.
-*   📍 **Ubicación:** Originario de Jilotepec, Edo. Mex., con base en Tula, Hidalgo.
+*   🎓 **Estudiante de 10mo cuatrimestre** de Ingeniería en Desarrollo y Gestión de Software en la **UTTT**.
+*   📍 **Ubicación:** Originario de Jilotepec, Edo. Mex., viviendo en Tula, Hidalgo.
 *   🏢 **Fundador y Lead Developer** en **Rodnix**, agencia de soluciones digitales a la medida.
-*   🎯 **Meta a corto plazo (2027):** Integrarme al sector aeronáutico mediante prácticas profesionales en **Aeroméxico**.
 *   🤝 **Trabajo en equipo e Innovación:** Participante en importantes competencias de desarrollo, destacando el **Hackathon de Tiendas 3B** en la CDMX y en **Talent Land** colaborando con **Grupo Salinas**.
 *   🧠 **Certificaciones:** Certificado de Iniciación al Desarrollo con IA - by Mouredev.
 
