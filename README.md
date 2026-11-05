@@ -19,7 +19,7 @@
 
 *   🎓 **Estudiante de 10mo cuatrimestre** de Ingeniería en Desarrollo y Gestión de Software en la **UTTT**.
 *   📍 **Ubicación:** Originario de Jilotepec, Edo. Mex., viviendo en Tula, Hidalgo.
-*   🏢 **Fundador y Lead Developer** en **Rodnix**, agencia de soluciones digitales a la medida.
+*   🏢 **Fundador** en **[Rodnix](https://rodnix.com.mx)**, agencia de soluciones digitales a la medida.
 *   🤝 **Trabajo en equipo e Innovación:** Participante en importantes competencias de desarrollo, destacando el **Hackathon de Tiendas 3B** en la CDMX y en **Talent Land** colaborando con **Grupo Salinas**.
 *   🧠 **Certificaciones:** Certificado de Iniciación al Desarrollo con IA - by Mouredev.
 
@@ -66,7 +66,7 @@ Mi dominio técnico abarca múltiples áreas, desde arquitecturas orientadas a A
 *   🛍️ **Sensus** Aplicación Móvil que ayuda a las familias mexicanas a ver ofertas en tiendas cercanas a su ubicación, y permite a las pequeñas tiendas a ofertar           productos próximos a caducar, protegiendo la economía de ambos usuarios.
               https://github.com/sensus-proj
 
-> 💡 **Perfil Multidisciplinario:** Mi pasión va más allá del software puro. Realizo desarrollo de aplicaciones para ecosistemas **Wear OS**, doy mantenimiento y reparación de hardware a nivel de componentes electrónicos (pantallas, teclados, transistores), trabajo con fabricación en vidrio/aluminio, y tengo experiencia en **fotografía y cinematografía aérea con drones**.
+> 💡 **Perfil Multidisciplinario:** Mi pasión va más allá del software puro. Realizo desarrollo de aplicaciones para ecosistemas **Wear OS**, doy mantenimiento y reparación de hardware a nivel de componentes electrónicos (pantallas, teclados, transistores), mi ultimo trabajo fue en una Canceleria de Vidrio y Aluminio en el cual realizaba la fabricación en vidrio/aluminio de ventanas y puertas, y tengo experiencia en **fotografía y cinematografía aérea con drones**.
 
 ---
 
@@ -75,9 +75,8 @@ Mi dominio técnico abarca múltiples áreas, desde arquitecturas orientadas a A
 Soy una persona de intereses variados, siempre explorando la intersección entre la tecnología, el arte y los deportes:
 
 *   🎧 **Música:** Top fan global de **Skrillex**. Amante de la electrónica (Dubstep, Trap, Bass, Hard Techno), y consumidor activo de regional mexicano urbano y corridos tumbados (Natanael Cano, Peso Pluma).
-*   ⚽ **Deportes:** ¡Disfruté al máximo el inicio del Mundial 2026 en el fan fest!
-*   ✈️ **Aviación y Simulación:** Disfruto usar simuladores de vuelo como **Aerofly FS Global** y **RFS**, afición que complementa mi pasión por los drones.
-*   🕹️ **Coleccionismo & Cultura de Internet:** Colecciono modelos a escala de autobuses (Irizar) y figuras articuladas (FNAF, Iron Man). Siempre conectado a la red y a los eventos virales del internet.
+*   ⚽ **Deportes:** ¡Disfruto mucho salir a caminar al aire libre, me fascina mucho caminar y escuchar musica para analizar mi dia o saber como resolver bugs!
+*   ✈️ **Juegos de Simulación:** Disfruto usar simuladores de vuelo como **RFS**, afición que complementa mi pasión por los drones.
 *   🌮 **Gastronomía:** Fan incondicional de la comida tradicional mexicana (chilaquiles, quesabirrias, tortas) y las buenas hamburguesas estilo teriyaki y pizzas.
 *   👨‍👩‍👦 **Familia:** Mantengo una relación muy cercana con mi madre y mi hermano menor, a quien trato de guiar como mentor en sus estudios y pasatiempos.
 
