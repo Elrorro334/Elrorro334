@@ -63,6 +63,8 @@ Mi dominio técnico abarca múltiples áreas, desde arquitecturas orientadas a A
 *   🏢 **Rodnix:** Dirección y desarrollo principal, abarcando backend, frontend e infraestructura web.
 *   📊 **EVALUMA:** Portal de evaluación corporativa construido con **.NET, Kafka y Next.js**.
 *   ☁️ **Glosy:** Plataforma SaaS de gestión, actualmente en proceso de reestructuración arquitectónica.
+*   🛍️ **Sensus** Aplicación Móvil que ayuda a las familias mexicanas a ver ofertas en tiendas cercanas a su ubicación, y permite a las pequeñas tiendas a ofertar           productos próximos a caducar, protegiendo la economía de ambos usuarios.
+              https://github.com/sensus-proj
 
 > 💡 **Perfil Multidisciplinario:** Mi pasión va más allá del software puro. Realizo desarrollo de aplicaciones para ecosistemas **Wear OS**, doy mantenimiento y reparación de hardware a nivel de componentes electrónicos (pantallas, teclados, transistores), trabajo con fabricación en vidrio/aluminio, y tengo experiencia en **fotografía y cinematografía aérea con drones**.
 
